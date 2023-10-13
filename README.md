@@ -19,3 +19,8 @@ Classes to simplify interacting with OpenAI API ChatCompletion endpoint.
 
 &nbsp;
 > Check out examples.ipynb for sample usage
+
+## TODO
+
+- Improve file operations. Currently must save the notebook, run .md(), Cmd+S (to save), then click discard to discard current state and use new one.
+- Template-Based Responses: Provide templates for more control over the response. 
